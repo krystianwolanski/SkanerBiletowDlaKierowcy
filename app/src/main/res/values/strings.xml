@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Bus</string>
+    <string name="e_przejazdy">E-przejazdy</string>
+    <string name="title_activity_connection">connection</string>
+    <string name="title_activity_choose_connection">choose_connection</string>
+    <string name="title_activity_trying">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="wybierz_przejazd">Wybierz przejazd</string>
+    <string name="miejsce_wyjazdu">Miejsce wyjazdu:</string>
+    <string name="miejsce_docelowe">Miejsce docelowe:</string>
+    <string name="godzina_wyjazdu">Godzina wyjazdu:</string>
+    <string name="button">Button</string>
+    <string-array name="connections">
+        <item>Gdańsk</item>
+        <item>Warszawa</item>
+        <item>Rzeszów</item>
+        <item>Opole</item>
+        <item>Zakopane</item>
+        <item>Sanok</item>
+        <item>Wrocław</item>
+        <item>Katowice</item>
+        <item>Gdynia</item>
+        <item>Lublin</item>
+        <item>Poznań</item>
+        <item>Szczecin</item>
+        <item>Kraków</item>
+        <item>Łódź</item>
+        <item>Zabrze</item>
+        <item>Sosnowiec</item>
+        <item>Mielec</item>
+        <item>Białystok</item>
+        <item>Bydgoszcz</item>
+    </string-array>
+    <string name="title_activity_preview">Preview</string>
+</resources>
